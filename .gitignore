@@ -1,0 +1,6 @@
+.DS_Store
+packages
+.project
+test/packages
+pubspec.lock
+
